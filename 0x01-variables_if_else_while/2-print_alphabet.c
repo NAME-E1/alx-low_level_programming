@@ -10,6 +10,7 @@
 int main(void)
 {
 	int ade;
+
 	for (ade = 'a'; ade <= 'z'; ade++)
 	{
 		putchar(ade);
