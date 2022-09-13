@@ -13,10 +13,10 @@ int main(void)
 
 	while (d <= '9')
 	{
-		putchar(d);	
-  	        d++;
+		putchar(d);
+		d++;
 	}
-	for (b ='a'; b <= 'f'; b++)
+	for (b = 'a'; b <= 'f'; b++)
 		putchar(b);
 	putchar('\n');
 	return (0);
