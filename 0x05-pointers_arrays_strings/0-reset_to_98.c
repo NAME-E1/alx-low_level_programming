@@ -3,7 +3,7 @@
 
 /**
  * reset_to_98 - Resets the value fo a variable to 98
- * n: value of variable for changing pointer dereference
+ * @n: value of variable for changing pointer dereference
  * Return: Always 0 success.
  */
 
