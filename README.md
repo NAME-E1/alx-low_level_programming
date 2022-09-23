@@ -1,1 +1,1 @@
-C is a low level programming language
+more pointers and arrays
